@@ -1,4 +1,4 @@
-### Junior Scala developer with C/C++ background
+### Scala developer with C/C++ background
 
 Hi, you can find my CV here.
 
